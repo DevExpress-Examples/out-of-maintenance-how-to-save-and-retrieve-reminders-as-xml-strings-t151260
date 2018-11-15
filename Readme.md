@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/ReminderXml/Form1.cs) (VB: [Form1.vb](./VB/ReminderXml/Form1.vb))
+* [Program.cs](./CS/ReminderXml/Program.cs) (VB: [Program.vb](./VB/ReminderXml/Program.vb))
+<!-- default file list end -->
 # How to save and retrieve reminders as XML strings
 
 
